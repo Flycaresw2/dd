@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-31 04:21:37 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-05-31 03:47:40 +0000"
@@ -372,6 +378,8 @@
       "cooked_beef": "2025-05-31 02:14:51 +0000",
       "baked_potato": "2025-05-31 02:05:32 +0000",
       "potato": "2025-05-31 00:06:26 +0000",
+      "rotten_flesh": "2025-05-31 04:20:30 +0000",
+      "cooked_chicken": "2025-05-31 04:20:55 +0000",
       "carrot": "2025-05-31 00:08:44 +0000"
     },
     "done": false
@@ -956,6 +964,12 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-31 04:21:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-05-31 00:02:40 +0000"
@@ -1457,8 +1471,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:windswept_hills": "2025-05-31 00:01:31 +0000",
+      "minecraft:river": "2025-05-31 04:15:23 +0000",
       "minecraft:swamp": "2025-05-31 00:07:27 +0000",
       "minecraft:forest": "2025-05-31 00:05:27 +0000",
+      "minecraft:windswept_savanna": "2025-05-31 04:15:45 +0000",
       "minecraft:plains": "2025-05-31 00:06:51 +0000"
     },
     "done": false
