@@ -1169,3 +1169,25 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [31May2025 05:00:34.035] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
 [31May2025 05:06:15.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IGeoo lost connection: Disconnected
 [31May2025 05:06:15.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo left the game
+[31May2025 05:07:13.408] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[31May2025 05:07:25.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [Mine? Mine? Mine?]
+[31May2025 05:09:38.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has made the advancement [Cover Me with Diamonds]
+[31May2025 05:10:27.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has made the advancement [Mine? Mine? Mine?]
+[31May2025 05:12:07.302] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[31May2025 05:12:22.742] [Worker-Main-127/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[31May2025 05:13:30.302] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[31May2025 05:14:38.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flycare_sw lost connection: Disconnected
+[31May2025 05:14:38.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw left the game
+[31May2025 05:14:39.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristopher_jrx lost connection: Disconnected
+[31May2025 05:14:39.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx left the game
+[31May2025 05:15:07.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[31May2025 05:15:07.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31May2025 05:15:07.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31May2025 05:15:07.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31May2025 05:15:08.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31May2025 05:15:08.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31May2025 05:15:08.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31May2025 05:15:08.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31May2025 05:15:08.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31May2025 05:15:08.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31May2025 05:15:08.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

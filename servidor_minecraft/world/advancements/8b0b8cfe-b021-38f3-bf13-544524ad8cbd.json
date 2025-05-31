@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-05-31 05:09:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 02:17:41 +0000"
@@ -888,6 +894,7 @@
       "minecraft:spider": "2025-05-31 02:03:50 +0000",
       "minecraft:creeper": "2025-05-31 02:43:39 +0000",
       "minecraft:phantom": "2025-05-31 04:24:32 +0000",
+      "minecraft:witch": "2025-05-31 05:08:02 +0000",
       "minecraft:wither_skeleton": "2025-05-31 02:05:09 +0000",
       "minecraft:cave_spider": "2025-05-31 02:03:40 +0000",
       "minecraft:zombie": "2025-05-31 02:36:07 +0000"
@@ -1587,6 +1594,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 02:17:41 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-05-31 05:10:27 +0000"
     },
     "done": true
   },

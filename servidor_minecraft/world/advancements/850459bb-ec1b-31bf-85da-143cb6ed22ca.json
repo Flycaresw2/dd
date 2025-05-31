@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-31 05:10:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-05-31 04:18:00 +0000"
@@ -80,6 +86,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-05-31 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-31 05:10:27 +0000"
     },
     "done": true
   },
@@ -221,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-31 05:11:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 04:31:57 +0000"
@@ -304,6 +322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-05-31 05:11:40 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-05-31 04:24:37 +0000"
@@ -337,6 +361,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 04:31:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-31 05:10:27 +0000"
     },
     "done": true
   },
@@ -460,6 +490,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-05-31 05:11:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-05-31 04:09:09 +0000"
@@ -532,6 +568,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-05-31 05:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-31 05:10:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-05-31 04:14:05 +0000"
@@ -567,6 +615,7 @@
       "minecraft:skeleton": "2025-05-31 04:11:53 +0000",
       "minecraft:hoglin": "2025-05-31 04:34:49 +0000",
       "minecraft:phantom": "2025-05-31 04:43:01 +0000",
+      "minecraft:witch": "2025-05-31 05:07:42 +0000",
       "minecraft:wither_skeleton": "2025-05-31 04:35:13 +0000",
       "minecraft:drowned": "2025-05-31 04:53:19 +0000"
     },
@@ -581,6 +630,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-05-31 04:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-05-31 05:11:40 +0000"
     },
     "done": true
   },
@@ -728,6 +783,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-31 05:10:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-31 04:16:17 +0000"
@@ -797,6 +858,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-05-31 04:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-05-31 05:13:41 +0000"
     },
     "done": true
   },
@@ -872,6 +939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-31 05:10:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-31 04:07:59 +0000"
@@ -929,6 +1002,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
     "criteria": {
       "has_leather": "2025-05-31 04:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-31 05:11:40 +0000"
     },
     "done": true
   },
@@ -1004,6 +1083,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-05-31 05:11:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2025-05-31 04:11:53 +0000"
@@ -1019,6 +1104,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 04:31:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-05-31 05:07:25 +0000"
     },
     "done": true
   },
@@ -1175,6 +1266,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 04:31:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-05-31 05:11:40 +0000"
     },
     "done": true
   },
