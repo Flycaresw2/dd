@@ -419,6 +419,7 @@
       "apple": "2025-05-31 00:05:01 +0000",
       "pumpkin_pie": "2025-05-31 04:42:25 +0000",
       "bread": "2025-05-31 00:08:21 +0000",
+      "golden_apple": "2025-05-31 21:13:12 +0000",
       "melon_slice": "2025-05-31 02:45:55 +0000",
       "golden_carrot": "2025-05-31 04:45:56 +0000",
       "carrot": "2025-05-31 03:44:15 +0000"
@@ -956,6 +957,12 @@
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-31 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-05-31 21:07:21 +0000"
     },
     "done": true
   },
@@ -1627,6 +1634,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2025-05-31 21:15:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-05-30 23:52:44 +0000"
@@ -2055,6 +2068,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-31 00:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-31 21:11:23 +0000"
     },
     "done": true
   },

@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-05-31 21:14:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:18:34 +0000"
@@ -869,6 +875,7 @@
       "minecraft:witch": "2025-05-31 05:07:42 +0000",
       "minecraft:wither_skeleton": "2025-05-31 04:35:13 +0000",
       "minecraft:cave_spider": "2025-05-31 20:22:04 +0000",
+      "minecraft:zombie": "2025-05-31 21:13:58 +0000",
       "minecraft:drowned": "2025-05-31 04:53:19 +0000"
     },
     "done": false
@@ -1266,6 +1273,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-05-31 04:44:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-05-31 21:14:19 +0000"
     },
     "done": true
   },

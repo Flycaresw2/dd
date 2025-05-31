@@ -964,3 +964,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 21:09:54.149] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/23129, l='ServerLevel[world]', x=79.40, y=126.01, z=69.31] died: Dinnerbone was shot by Dinnerbone
 [31May2025 21:10:01.055] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/23128, l='ServerLevel[world]', x=79.99, y=126.01, z=74.24] died: Dinnerbone was shot by Dinnerbone
 [31May2025 21:10:05.351] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/23164, l='ServerLevel[world]', x=78.09, y=126.01, z=71.49] died: Dinnerbone was slain by Flycare_sw
+[31May2025 21:10:43.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw withered away whilst fighting Wither Skeleton
+[31May2025 21:10:43.657] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[31May2025 21:15:01.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was slain by Wither Skeleton
+[31May2025 21:15:01.407] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[31May2025 21:15:45.947] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/24011, l='ServerLevel[world]', x=112.70, y=134.01, z=64.44] died: Dinnerbone went up in flames
+[31May2025 21:15:46.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has completed the challenge [Eye of the Tiger]
+[31May2025 21:15:46.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw withered away whilst fighting Wither Skeleton
+[31May2025 21:15:46.210] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[31May2025 21:16:34.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw withered away whilst fighting Wither Skeleton
+[31May2025 21:16:34.704] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[31May2025 21:17:28.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx withered away whilst fighting Wither Skeleton
+[31May2025 21:17:28.351] [Server thread/INFO] [tombstone/]: The player Cristopher_jrx has successfully been saved
+[31May2025 21:17:55.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was slain by Wither Skeleton
+[31May2025 21:17:55.302] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[31May2025 21:19:03.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx was slain by Wither Skeleton
+[31May2025 21:19:03.453] [Server thread/INFO] [tombstone/]: The player Cristopher_jrx has successfully been saved
+[31May2025 21:20:21.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has reached the goal [Bone Crusher]
