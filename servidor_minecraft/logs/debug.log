@@ -4576,3 +4576,119 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 04:45:48.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was burnt to a crisp whilst fighting Wither Skeleton
 [31May2025 04:45:48.528] [Server thread/DEBUG] [tombstone/]: A new grave of the player IGeoo was created at position [x:51, y:193, z:-707, dim:minecraft:overworld]
 [31May2025 04:45:48.529] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 04:46:19.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx was slain by Phantom
+[31May2025 04:46:19.076] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cristopher_jrx was created at position [x:124, y:62, z:-697, dim:minecraft:overworld]
+[31May2025 04:46:19.087] [Server thread/INFO] [tombstone/]: The player Cristopher_jrx has successfully been saved
+[31May2025 04:46:56.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo has made the advancement [Ambush]
+[31May2025 04:47:30.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was slain by Phantom
+[31May2025 04:47:30.576] [Server thread/DEBUG] [tombstone/]: A new grave of the player IGeoo was created at position [x:56, y:192, z:-702, dim:minecraft:overworld]
+[31May2025 04:47:30.584] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 04:47:37.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [Sweet Dreams]
+[31May2025 04:48:03.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was burnt to a crisp whilst fighting Phantom
+[31May2025 04:48:03.937] [Server thread/DEBUG] [tombstone/]: A new grave of the player Flycare_sw was created at position [x:51, y:199, z:-709, dim:minecraft:overworld]
+[31May2025 04:48:03.938] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[31May2025 04:48:08.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo has made the advancement [Not Today, Thank You]
+[31May2025 04:48:21.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was shot by Wither Skeleton
+[31May2025 04:48:21.431] [Server thread/DEBUG] [tombstone/]: A new grave of the player IGeoo was created at position [x:59, y:189, z:-704, dim:minecraft:overworld]
+[31May2025 04:48:21.433] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 04:49:11.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was doomed to fall
+[31May2025 04:49:11.867] [Server thread/DEBUG] [tombstone/]: A new grave of the player Flycare_sw was created at position [x:47, y:174, z:-706, dim:minecraft:overworld]
+[31May2025 04:49:11.867] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[31May2025 04:49:12.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [Ice Bucket Challenge]
+[31May2025 04:49:51.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was slain by Phantom
+[31May2025 04:49:51.730] [Server thread/DEBUG] [tombstone/]: A new grave of the player IGeoo was created at position [x:37, y:177, z:-703, dim:minecraft:overworld]
+[31May2025 04:49:51.736] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 04:50:02.147] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 04:50:02.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 04:50:07.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was slain by Phantom
+[31May2025 04:50:07.177] [Server thread/DEBUG] [tombstone/]: A new grave of the player Flycare_sw was created at position [x:38, y:177, z:-704, dim:minecraft:overworld]
+[31May2025 04:50:07.182] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[31May2025 04:50:49.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo has made the advancement [Ashes 'n Bones]
+[31May2025 04:51:04.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was doomed to fall by Flycare_sw
+[31May2025 04:51:04.132] [Server thread/DEBUG] [tombstone/]: A new grave of the player IGeoo was created at position [x:28, y:64, z:-705, dim:minecraft:overworld]
+[31May2025 04:51:04.137] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 04:53:41.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo has made the advancement [A Strange Grave Dust]
+[31May2025 04:54:23.181] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[31May2025 04:54:31.790] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[31May2025 04:54:33.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has made the advancement [We Need to Go Deeper]
+[31May2025 04:54:33.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristopher_jrx moved too quickly! 2.934108439402742,-1.1661092609382138,9.654931557457985
+[31May2025 04:54:33.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10142ms or 202 ticks behind
+[31May2025 04:54:34.591] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[31May2025 04:54:36.172] [Worker-Main-127/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[31May2025 04:54:44.991] [Worker-Main-2/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[31May2025 04:54:44.991] [Worker-Main-2/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[31May2025 04:54:45.003] [Worker-Main-2/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@33feb805
+[31May2025 04:54:45.003] [Worker-Main-2/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528
+[31May2025 04:54:45.013] [Worker-Main-2/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[31May2025 04:54:45.013] [Worker-Main-2/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[31May2025 04:54:45.017] [Worker-Main-2/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure mvs:houses/deepslate_house
+net.minecraft.ReportedException: Loading NBT data
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:466) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:30) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:460) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:43) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:30) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.nbt.NbtIo.m_128930_(NbtIo.java:279) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.nbt.NbtIo.m_128934_(NbtIo.java:225) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.nbt.NbtIo.m_128939_(NbtIo.java:52) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230377_(StructureTemplateManager.java:222) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230372_(StructureTemplateManager.java:212) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230427_(StructureTemplateManager.java:124) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230425_(StructureTemplateManager.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1740) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230407_(StructureTemplateManager.java:92) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230359_(StructureTemplateManager.java:80) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_227299_(SinglePoolElement.java:85) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_214015_(SinglePoolElement.java:118) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at com.finndog.mvs.world.structures.pieces.PieceLimitedJigsawManager.assembleJigsawStructure(PieceLimitedJigsawManager.java:89) ~[mvs-4.1.4-1.19.2-forge.jar%23167!/:?]
+	at com.finndog.mvs.world.structures.GenericJigsawStructure.m_214086_(GenericJigsawStructure.java:207) ~[mvs-4.1.4-1.19.2-forge.jar%23167!/:?]
+	at net.minecraft.world.level.levelgen.structure.Structure.m_226596_(Structure.java:84) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_223104_(ChunkGenerator.java:638) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_223066_(ChunkGenerator.java:591) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:720) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_223164_(ChunkGenerator.java:573) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_223360_(ChunkStatus.java:59) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_223279_(ChunkStatus.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$25(ChunkMap.java:621) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:619) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) [server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) [server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) [server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+Caused by: java.io.IOException: Invalid tag id: 14
+	at net.minecraft.nbt.TagType$1.m_197591_(TagType.java:58) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:63) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:56) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:460) ~[server-1.19.2-20220805.130853-srg.jar%23193!/:?]
+	... 52 more
+[31May2025 04:54:46.956] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[31May2025 04:54:50.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [We Need to Go Deeper]
+[31May2025 04:55:00.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was slain by Phantom
+[31May2025 04:55:00.086] [Server thread/DEBUG] [tombstone/]: A new grave of the player IGeoo was created at position [x:62, y:63, z:-698, dim:minecraft:overworld]
+[31May2025 04:55:00.139] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 04:55:02.770] [Worker-Main-146/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[31May2025 04:55:12.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 04:55:12.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 04:55:47.000] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IGeoo lost connection: Disconnected
+[31May2025 04:55:47.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo left the game

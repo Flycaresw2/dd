@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-31 04:54:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-31 04:29:49 +0000"
@@ -194,6 +200,12 @@
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-05-31 04:07:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-05-31 04:49:12 +0000"
     },
     "done": true
   },
@@ -411,6 +423,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-31 04:47:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-05-31 04:07:47 +0000"
@@ -456,6 +474,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-05-31 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-31 04:49:12 +0000"
     },
     "done": true
   },
@@ -530,13 +554,20 @@
       "minecraft:skeleton": "2025-05-31 04:11:53 +0000",
       "minecraft:hoglin": "2025-05-31 04:34:49 +0000",
       "minecraft:phantom": "2025-05-31 04:43:01 +0000",
-      "minecraft:wither_skeleton": "2025-05-31 04:35:13 +0000"
+      "minecraft:wither_skeleton": "2025-05-31 04:35:13 +0000",
+      "minecraft:drowned": "2025-05-31 04:53:19 +0000"
     },
     "done": false
   },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-05-31 04:31:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-31 04:54:50 +0000"
     },
     "done": true
   },
@@ -894,6 +925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-05-31 04:50:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-05-31 04:07:59 +0000"
@@ -909,6 +946,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-31 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-31 04:49:12 +0000"
     },
     "done": true
   },
@@ -1121,6 +1164,12 @@
       "has_iron_ingot": "2025-05-31 04:18:34 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-05-31 04:54:50 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {

@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-31 04:53:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 02:00:12 +0000"
@@ -915,6 +921,7 @@
       "minecraft:hoglin": "2025-05-31 04:31:51 +0000",
       "minecraft:spider": "2025-05-31 00:06:20 +0000",
       "minecraft:creeper": "2025-05-31 03:45:30 +0000",
+      "minecraft:phantom": "2025-05-31 04:46:56 +0000",
       "minecraft:wither_skeleton": "2025-05-31 04:44:33 +0000",
       "minecraft:enderman": "2025-05-31 04:12:07 +0000",
       "minecraft:zombie": "2025-05-31 03:21:20 +0000"
@@ -1203,6 +1210,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 04:50:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 04:37:39 +0000"
@@ -1314,6 +1327,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-05-31 03:36:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-31 04:48:08 +0000"
     },
     "done": true
   },
@@ -1974,6 +1993,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-05-31 03:32:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 04:46:56 +0000"
     },
     "done": true
   },
