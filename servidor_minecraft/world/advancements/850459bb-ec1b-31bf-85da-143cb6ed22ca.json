@@ -789,9 +789,11 @@
       "minecraft:pillager": "2025-05-31 20:01:44 +0000",
       "minecraft:skeleton": "2025-05-31 04:11:53 +0000",
       "minecraft:hoglin": "2025-05-31 04:34:49 +0000",
+      "minecraft:spider": "2025-05-31 20:22:24 +0000",
       "minecraft:phantom": "2025-05-31 04:43:01 +0000",
       "minecraft:witch": "2025-05-31 05:07:42 +0000",
       "minecraft:wither_skeleton": "2025-05-31 04:35:13 +0000",
+      "minecraft:cave_spider": "2025-05-31 20:22:04 +0000",
       "minecraft:drowned": "2025-05-31 04:53:19 +0000"
     },
     "done": false
@@ -1051,6 +1053,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-05-31 04:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-31 20:18:04 +0000"
     },
     "done": true
   },
@@ -1632,6 +1640,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-31 20:18:04 +0000"
     },
     "done": true
   },
