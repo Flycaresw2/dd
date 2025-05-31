@@ -882,3 +882,29 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 03:04:04.138] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/13977, l='ServerLevel[world]', x=109.06, y=142.01, z=65.95] died: Dinnerbone was shot by Dinnerbone
 [31May2025 03:04:13.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual has made the advancement [Ashes 'n Bones]
 [31May2025 03:04:27.638] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/13933, l='ServerLevel[world]', x=102.77, y=142.01, z=61.63] died: Dinnerbone was shot by Dinnerbone
+[31May2025 03:05:16.285] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/20522, l='ServerLevel[world]', x=103.70, y=142.01, z=59.30] died: Dinnerbone was slain by PanZensual
+[31May2025 03:05:31.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was shot by Dinnerbone
+[31May2025 03:05:31.993] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[31May2025 03:05:37.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual was shot by Dinnerbone
+[31May2025 03:05:37.390] [Server thread/INFO] [tombstone/]: The player PanZensual has successfully been saved
+[31May2025 03:05:39.494] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/20341, l='ServerLevel[world]', x=112.69, y=142.01, z=65.84] died: Dinnerbone was shot by Dinnerbone
+[31May2025 03:05:54.888] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/20549, l='ServerLevel[world]', x=108.35, y=142.01, z=65.70] died: Dinnerbone was shot by Dinnerbone
+[31May2025 03:06:06.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has reached the goal [Chain Death]
+[31May2025 03:06:06.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was slain by Wither Skeleton
+[31May2025 03:06:06.995] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[31May2025 03:06:55.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/13979, l='ServerLevel[world]', x=103.05, y=142.01, z=67.70] died: Dinnerbone was shot by Dinnerbone
+[31May2025 03:07:04.439] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/20461, l='ServerLevel[world]', x=102.78, y=142.01, z=63.57] died: Dinnerbone was slain by PanZensual
+[31May2025 03:07:17.685] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/13978, l='ServerLevel[world]', x=112.65, y=142.01, z=67.70] died: Dinnerbone was slain by Flycare_sw
+[31May2025 03:07:29.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was slain by PanZensual
+[31May2025 03:07:29.439] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[31May2025 03:08:57.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual was slain by Wither Skeleton
+[31May2025 03:08:57.293] [Server thread/INFO] [tombstone/]: The player PanZensual has successfully been saved
+[31May2025 03:09:28.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual has made the advancement [Spooky Scary Skeleton]
+[31May2025 03:10:47.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual was slain by Wither Skeleton
+[31May2025 03:10:47.891] [Server thread/INFO] [tombstone/]: The player PanZensual has successfully been saved
+[31May2025 03:10:52.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has made the advancement [A Strange Grave Dust]
+[31May2025 03:11:32.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual has reached the goal [Chain Death]
+[31May2025 03:11:32.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual was slain by Flycare_sw
+[31May2025 03:11:32.950] [Server thread/INFO] [tombstone/]: The player PanZensual has successfully been saved
+[31May2025 03:11:33.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was slain by Wither Skeleton
+[31May2025 03:11:33.691] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved

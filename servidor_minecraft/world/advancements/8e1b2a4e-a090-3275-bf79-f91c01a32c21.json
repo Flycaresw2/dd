@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 03:11:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-05-31 01:52:27 +0000"
@@ -349,6 +355,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-31 03:09:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-05-31 01:52:20 +0000"
@@ -364,6 +376,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-31 02:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-05-31 03:05:55 +0000"
     },
     "done": true
   },
@@ -890,6 +908,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-31 02:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-31 03:09:28 +0000"
     },
     "done": true
   },
