@@ -3933,3 +3933,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 02:13:17.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was slain by Spider
 [31May2025 02:13:17.488] [Server thread/DEBUG] [tombstone/]: A new grave of the player Flycare_sw was created at position [x:99, y:146, z:55, dim:minecraft:overworld]
 [31May2025 02:13:17.502] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[31May2025 02:14:41.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flycare_sw> [x:268, y:65, z:-172, dim:minecraft:overworld]
+[31May2025 02:15:02.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 02:15:02.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 02:16:49.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was shot by Skeleton
+[31May2025 02:16:49.040] [Server thread/DEBUG] [tombstone/]: A new grave of the player IGeoo was created at position [x:161, y:69, z:-192, dim:minecraft:overworld]
+[31May2025 02:16:49.043] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 02:17:28.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual was slain by Cave Enderman
+[31May2025 02:17:28.179] [Server thread/DEBUG] [tombstone/]: A new grave of the player PanZensual was created at position [x:207, y:2, z:-355, dim:minecraft:overworld]
+[31May2025 02:17:28.193] [Server thread/INFO] [tombstone/]: The player PanZensual has successfully been saved
+[31May2025 02:17:38.996] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/614, l='ServerLevel[world]', x=170.68, y=70.00, z=-156.46] died, message: 'Villager was slain by Zombie'
+[31May2025 02:18:22.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IGeoo lost connection: Disconnected
+[31May2025 02:18:22.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo left the game
+[31May2025 02:19:14.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual was slain by Cave Enderman
+[31May2025 02:19:14.183] [Server thread/DEBUG] [tombstone/]: A new grave of the player PanZensual was created at position [x:188, y:6, z:-347, dim:minecraft:overworld]
+[31May2025 02:19:14.192] [Server thread/INFO] [tombstone/]: The player PanZensual has successfully been saved
+[31May2025 02:20:02.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 02:20:02.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 02:21:56.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual has made the advancement [Suit Up]
+[31May2025 02:24:15.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual has made the advancement [Isn't It Iron Pick]

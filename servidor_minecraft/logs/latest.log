@@ -816,3 +816,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 02:12:32.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo has made the advancement [The Parrots and the Bats]
 [31May2025 02:13:17.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was slain by Spider
 [31May2025 02:13:17.502] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[31May2025 02:14:41.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flycare_sw> [x:268, y:65, z:-172, dim:minecraft:overworld]
+[31May2025 02:16:49.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was shot by Skeleton
+[31May2025 02:16:49.043] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 02:17:28.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual was slain by Cave Enderman
+[31May2025 02:17:28.193] [Server thread/INFO] [tombstone/]: The player PanZensual has successfully been saved
+[31May2025 02:17:38.996] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/614, l='ServerLevel[world]', x=170.68, y=70.00, z=-156.46] died, message: 'Villager was slain by Zombie'
+[31May2025 02:18:22.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IGeoo lost connection: Disconnected
+[31May2025 02:18:22.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo left the game
+[31May2025 02:19:14.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual was slain by Cave Enderman
+[31May2025 02:19:14.192] [Server thread/INFO] [tombstone/]: The player PanZensual has successfully been saved
+[31May2025 02:21:56.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual has made the advancement [Suit Up]
+[31May2025 02:24:15.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual has made the advancement [Isn't It Iron Pick]
