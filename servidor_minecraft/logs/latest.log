@@ -980,3 +980,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 03:44:17.231] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
 [31May2025 03:48:59.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was slain by Flycare_sw
 [31May2025 03:48:59.743] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 03:59:17.580] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/25767, l='ServerLevel[world]', x=123.45, y=67.94, z=-209.30] died, message: 'Farmer was slain by Zombie'
+[31May2025 04:05:47.077] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@685b2dc
+[31May2025 04:05:47.080] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cristopher_jrx[/100.85.131.43:52456] logged in with entity id 35670 at (5.5, 78.0, 3.5)
+[31May2025 04:05:47.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx joined the game
+[31May2025 04:05:47.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [Ice and Fire]
+[31May2025 04:05:48.757] [Netty Epoll Server IO #1/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Cristopher_jrx: protocol version: 2.0
+[31May2025 04:06:07.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [People Are Strange]
+[31May2025 04:06:07.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Flycare_sw> [x:167, y:63, z:-127, dim:minecraft:overworld]
+[31May2025 04:08:35.227] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/24341, l='ServerLevel[world]', x=96.60, y=66.00, z=-146.30] died, message: 'Farmer was slain by IGeoo'
+[31May2025 04:08:35.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo has made the advancement [Neighborhood Brawl]
+[31May2025 04:11:49.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [Not Today, Thank You]
+[31May2025 04:11:53.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [Monster Hunter]
+[31May2025 04:12:17.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo fell off a ladder
+[31May2025 04:12:17.029] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 04:13:13.841] [Worker-Main-127/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[31May2025 04:14:05.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [Stone Age]
+[31May2025 04:14:24.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [Cobweb Entanglement]
+[31May2025 04:15:16.743] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
