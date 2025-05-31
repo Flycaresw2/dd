@@ -839,3 +839,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 19:38:45.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was turned into gorgonzola by Gorgon
 [31May2025 19:38:45.266] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
 [31May2025 19:39:55.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has made the advancement [Clash of the Titans]
+[31May2025 19:40:08.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [Clash of the Titans]
+[31May2025 19:43:10.216] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[31May2025 19:43:18.288] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[31May2025 19:43:18.541] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[31May2025 19:43:48.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has made the advancement [Tie me to the Mast]
+[31May2025 19:44:50.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1077, y=41, z=-438} BlockPos{x=1077, y=40, z=-438}
+[31May2025 19:45:03.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [Best Friends Forever]
+[31May2025 19:45:03.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [Free Willy]
+[31May2025 19:46:36.897] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 19:47:07.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2118ms or 42 ticks behind
+[31May2025 19:47:11.984] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[31May2025 19:47:12.330] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[31May2025 19:47:25.710] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[31May2025 19:47:53.524] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[31May2025 19:47:53.578] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[31May2025 19:48:14.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx was slain by Sea Serpent
+[31May2025 19:48:14.759] [Server thread/INFO] [tombstone/]: The player Cristopher_jrx has successfully been saved
+[31May2025 19:48:23.186] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[31May2025 19:48:43.924] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[31May2025 19:48:59.096] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=318, y=-47, z=45}
+[31May2025 19:49:26.032] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[31May2025 19:50:13.854] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/8909, l='ServerLevel[world]', x=1104.12, y=50.62, z=-284.09]
+[31May2025 19:50:33.873] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[31May2025 19:55:53.676] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=685, y=6, z=172}

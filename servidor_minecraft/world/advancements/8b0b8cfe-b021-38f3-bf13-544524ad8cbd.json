@@ -401,6 +401,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-05-31 19:39:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 01:48:08 +0000"
@@ -416,6 +422,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-05-31 00:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-31 19:44:00 +0000"
     },
     "done": true
   },
@@ -560,6 +572,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-05-31 04:32:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-31 19:43:48 +0000"
     },
     "done": true
   },
@@ -722,6 +740,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-31 03:31:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-31 19:44:00 +0000"
     },
     "done": true
   },
@@ -1647,11 +1671,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-05-31 19:43:08 +0000",
       "minecraft:windswept_hills": "2025-05-30 23:51:21 +0000",
       "minecraft:beach": "2025-05-31 04:15:08 +0000",
       "minecraft:river": "2025-05-31 04:24:37 +0000",
       "minecraft:swamp": "2025-05-31 00:06:22 +0000",
       "minecraft:forest": "2025-05-30 23:52:44 +0000",
+      "minecraft:ocean": "2025-05-31 19:42:57 +0000",
       "minecraft:windswept_savanna": "2025-05-31 04:26:19 +0000",
       "minecraft:plains": "2025-05-30 23:53:12 +0000"
     },
@@ -1792,6 +1818,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-05-31 00:16:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-31 19:44:00 +0000"
     },
     "done": true
   },
