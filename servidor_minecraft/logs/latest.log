@@ -860,3 +860,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 02:48:44.441] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/15611, l='ServerLevel[world]', x=89.09, y=158.01, z=75.06] died: Dinnerbone was shot by Dinnerbone
 [31May2025 02:48:47.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/16670, l='ServerLevel[world]', x=84.33, y=158.01, z=69.74] died: Dinnerbone was shot by Dinnerbone
 [31May2025 02:50:11.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual has made the advancement [Super Creeps]
+[31May2025 02:57:51.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has made the advancement [Knowledge of Death]
+[31May2025 02:57:51.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has made the advancement [Ashes 'n Bones]
+[31May2025 02:57:59.485] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6551b280
+[31May2025 02:57:59.490] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IGeoo[/100.101.102.94:56396] logged in with entity id 19054 at (106.32072989162637, 66.0, -133.69999998807907)
+[31May2025 02:57:59.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo joined the game
+[31May2025 02:57:59.635] [Netty Epoll Server IO #6/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] IGeoo: protocol version: 2.0
+[31May2025 02:59:18.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo has made the advancement [Sweet Dreams]
+[31May2025 03:00:07.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IGeoo> IGeoo
+[31May2025 03:00:22.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made IGeoo a server operator
+[31May2025 03:00:38.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has made the advancement [Diamonds!]
+[31May2025 03:00:49.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has made the advancement [Magic Writing]
+[31May2025 03:01:07.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IGeoo: Gamerule playersSleepingPercentage is now set to: 1]
+[31May2025 03:01:12.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has made the advancement [Mutual Aid]
+[31May2025 03:01:12.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has reached the goal [The long arm of the law]
+[31May2025 03:01:35.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual was slain by Wither Skeleton
+[31May2025 03:01:35.694] [Server thread/INFO] [tombstone/]: The player PanZensual has successfully been saved
+[31May2025 03:03:28.635] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14092, l='ServerLevel[world]', x=106.54, y=142.01, z=62.83] died: Dinnerbone was shot by Dinnerbone
+[31May2025 03:03:34.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made IGeoo no longer a server operator
+[31May2025 03:03:44.536] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/13976, l='ServerLevel[world]', x=110.22, y=142.01, z=60.54] died: Dinnerbone was shot by Dinnerbone
+[31May2025 03:04:04.138] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/13977, l='ServerLevel[world]', x=109.06, y=142.01, z=65.95] died: Dinnerbone was shot by Dinnerbone
+[31May2025 03:04:13.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual has made the advancement [Ashes 'n Bones]
+[31May2025 03:04:27.638] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/13933, l='ServerLevel[world]', x=102.77, y=142.01, z=61.63] died: Dinnerbone was shot by Dinnerbone
