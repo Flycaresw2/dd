@@ -914,3 +914,31 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 20:39:24.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has made the advancement [Knowledge raises the soul]
 [31May2025 20:39:56.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx withered away whilst fighting Wither Skeleton
 [31May2025 20:39:56.656] [Server thread/INFO] [tombstone/]: The player Cristopher_jrx has successfully been saved
+[31May2025 20:40:56.726] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14557, l='ServerLevel[world]', x=108.76, y=94.01, z=70.30] died: Dinnerbone was slain by Flycare_sw
+[31May2025 20:42:04.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx was slain by Wither Skeleton
+[31May2025 20:42:04.306] [Server thread/INFO] [tombstone/]: The player Cristopher_jrx has successfully been saved
+[31May2025 20:45:30.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx was slain by Wither Skeleton
+[31May2025 20:45:30.256] [Server thread/INFO] [tombstone/]: The player Cristopher_jrx has successfully been saved
+[31May2025 20:46:21.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has reached the goal [Chain Death]
+[31May2025 20:46:21.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx was slain by Wither Skeleton
+[31May2025 20:46:21.557] [Server thread/INFO] [tombstone/]: The player Cristopher_jrx has successfully been saved
+[31May2025 20:46:52.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx withered away whilst fighting Wither Skeleton
+[31May2025 20:46:52.104] [Server thread/INFO] [tombstone/]: The player Cristopher_jrx has successfully been saved
+[31May2025 20:47:20.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx was slain by Wither Skeleton
+[31May2025 20:47:20.504] [Server thread/INFO] [tombstone/]: The player Cristopher_jrx has successfully been saved
+[31May2025 20:47:38.202] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/16443, l='ServerLevel[world]', x=81.52, y=110.01, z=54.22] died: Dinnerbone was shot by Dinnerbone
+[31May2025 20:47:45.852] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/16442, l='ServerLevel[world]', x=80.79, y=110.01, z=52.97] died: Dinnerbone was shot by Dinnerbone
+[31May2025 20:48:18.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has made the advancement [Spooky Scary Skeleton]
+[31May2025 20:50:08.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx was slain by Wither Skeleton
+[31May2025 20:50:08.510] [Server thread/INFO] [tombstone/]: The player Cristopher_jrx has successfully been saved
+[31May2025 20:50:21.155] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/16228, l='ServerLevel[world]', x=88.54, y=94.50, z=46.30] died: Dinnerbone was shot by Dinnerbone
+[31May2025 20:50:28.452] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/16226, l='ServerLevel[world]', x=78.92, y=86.01, z=47.68] died: Dinnerbone was shot by Dinnerbone
+[31May2025 20:51:20.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [Where Is The Stone Pen?]
+[31May2025 20:53:29.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has reached the goal [Discreet Search]
+[31May2025 20:55:07.509] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/16229, l='ServerLevel[world]', x=86.53, y=126.01, z=46.30] died: Dinnerbone was slain by Flycare_sw
+[31May2025 20:56:57.500] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/20333, l='ServerLevel[world]', x=106.15, y=126.01, z=66.39] died: Dinnerbone was shot by Dinnerbone
+[31May2025 20:57:05.899] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/19922, l='ServerLevel[world]', x=104.13, y=126.01, z=65.52] died: Dinnerbone was shot by Flycare_sw
+[31May2025 20:57:11.899] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/20290, l='ServerLevel[world]', x=105.01, y=126.01, z=64.93] died: Dinnerbone was shot by Flycare_sw
+[31May2025 20:57:17.901] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/19923, l='ServerLevel[world]', x=106.30, y=126.01, z=62.00] died: Dinnerbone was shot by Flycare_sw
+[31May2025 20:57:43.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was shot by Dinnerbone
+[31May2025 20:57:43.263] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
