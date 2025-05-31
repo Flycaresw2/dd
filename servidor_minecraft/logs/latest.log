@@ -948,3 +948,33 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 03:34:56.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual has made the advancement [Ol' Betsy]
 [31May2025 03:35:11.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was slain by PanZensual
 [31May2025 03:35:11.095] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 03:35:41.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo has reached the goal [Here They Come]
+[31May2025 03:35:59.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo has made the advancement [Knowledge of Death]
+[31May2025 03:35:59.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo has reached the goal [Chain Death]
+[31May2025 03:35:59.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was slain by PanZensual
+[31May2025 03:35:59.088] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 03:36:13.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has made the advancement [Hot Stuff]
+[31May2025 03:38:19.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was slain by Flycare_sw
+[31May2025 03:38:19.233] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 03:38:30.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was slain by IGeoo
+[31May2025 03:38:30.336] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[31May2025 03:39:01.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was slain by PanZensual
+[31May2025 03:39:01.639] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 03:39:09.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo has made the advancement [Suit Up]
+[31May2025 03:39:09.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo has made the advancement [Isn't It Iron Pick]
+[31May2025 03:39:09.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo has made the advancement [Hot Stuff]
+[31May2025 03:39:09.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo has made the advancement [Funeral Theft]
+[31May2025 03:39:17.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual has made the advancement [Take Aim]
+[31May2025 03:39:48.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanZensual lost connection: Disconnected
+[31May2025 03:39:48.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual left the game
+[31May2025 03:42:18.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was slain by Flycare_sw
+[31May2025 03:42:18.340] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 03:42:50.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was slain by IGeoo
+[31May2025 03:42:50.731] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[31May2025 03:43:25.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was slain by Flycare_sw
+[31May2025 03:43:25.434] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 03:44:01.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was slain by Flycare_sw
+[31May2025 03:44:01.998] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 03:44:15.678] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/589, l='ServerLevel[world]', x=171.50, y=70.00, z=-154.27] died, message: 'Cleric was slain by Zombie'
+[31May2025 03:44:17.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was slain by IGeoo
+[31May2025 03:44:17.231] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
