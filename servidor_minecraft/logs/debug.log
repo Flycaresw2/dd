@@ -3609,3 +3609,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 20:29:20.102] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/17326, l='ServerLevel[world]', x=97.66, y=166.01, z=80.52] died: Dinnerbone was shot by Dinnerbone
 [31May2025 20:29:26.354] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/16634, l='ServerLevel[world]', x=95.21, y=94.01, z=56.65] died: Dinnerbone was slain by Flycare_sw
 [31May2025 20:30:24.449] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/16633, l='ServerLevel[world]', x=92.30, y=94.01, z=52.92] died: Dinnerbone was burnt to a crisp whilst fighting Flycare_sw
+[31May2025 20:30:34.254] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14929, l='ServerLevel[world]', x=92.76, y=94.01, z=56.70] died: Dinnerbone was slain by Flycare_sw
+[31May2025 20:31:17.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 20:31:17.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 20:31:54.754] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/16151, l='ServerLevel[world]', x=85.70, y=94.01, z=64.47] died: Dinnerbone was shot by Dinnerbone
+[31May2025 20:32:20.002] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/17319, l='ServerLevel[world]', x=88.39, y=94.01, z=67.25] died: Dinnerbone was slain by Flycare_sw
+[31May2025 20:33:18.153] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/16152, l='ServerLevel[world]', x=88.70, y=94.01, z=60.49] died: Dinnerbone was slain by Flycare_sw
+[31May2025 20:33:52.004] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/15592, l='ServerLevel[world]', x=85.70, y=94.01, z=65.36] died: Dinnerbone was slain by Flycare_sw
+[31May2025 20:33:57.899] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/16438, l='ServerLevel[world]', x=85.24, y=94.01, z=66.79] died: Dinnerbone was burnt to a crisp whilst fighting Flycare_sw
+[31May2025 20:35:28.099] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/17327, l='ServerLevel[world]', x=88.35, y=167.01, z=79.74] died: Dinnerbone went up in flames
+[31May2025 20:36:17.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 20:36:17.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 20:38:08.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has reached the goal [A self-respecting Soul]
+[31May2025 20:38:33.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has reached the goal [Traveling lightning rod]
+[31May2025 20:38:49.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has reached the goal [I see clearly now]
+[31May2025 20:39:24.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has made the advancement [Knowledge raises the soul]
+[31May2025 20:39:56.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx withered away whilst fighting Wither Skeleton
+[31May2025 20:39:56.655] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cristopher_jrx was created at position [x:87, y:154, z:46, dim:minecraft:overworld]
+[31May2025 20:39:56.656] [Server thread/INFO] [tombstone/]: The player Cristopher_jrx has successfully been saved
