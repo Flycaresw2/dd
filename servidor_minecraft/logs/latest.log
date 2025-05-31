@@ -782,3 +782,26 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 01:51:20.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual has made the advancement [Getting an Upgrade]
 [31May2025 01:51:20.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo has made the advancement [Getting an Upgrade]
 [31May2025 01:53:40.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo has made the advancement [Stone Age]
+[31May2025 01:54:37.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IGeoo> [name:"MINITA UWU", x:165, y:66, z:-62, dim:minecraft:overworld]
+[31May2025 01:55:32.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual has made the advancement [Monster Hunter]
+[31May2025 01:56:29.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual has made the advancement [Acquire Hardware]
+[31May2025 02:00:12.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo has made the advancement [Acquire Hardware]
+[31May2025 02:00:29.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has made the advancement [Super Creeps]
+[31May2025 02:01:07.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual has made the advancement [Not Today, Thank You]
+[31May2025 02:01:56.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual has made the advancement [Sweet Dreams]
+[31May2025 02:02:07.990] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flycare_sw lost connection: Disconnected
+[31May2025 02:02:07.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw left the game
+[31May2025 02:02:21.783] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IGeoo lost connection: Disconnected
+[31May2025 02:02:21.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo left the game
+[31May2025 02:02:34.937] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5e7b9d5
+[31May2025 02:02:34.944] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IGeoo[/100.101.102.94:55988] logged in with entity id 5495 at (160.49149658177555, 71.0, -88.79697599501867)
+[31May2025 02:02:34.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo joined the game
+[31May2025 02:02:35.090] [Netty Epoll Server IO #3/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] IGeoo: protocol version: 2.0
+[31May2025 02:02:35.495] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@f7558dc
+[31May2025 02:02:35.500] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Flycare_sw[/100.82.241.58:54465] logged in with entity id 5530 at (103.4023816627043, 137.0, 44.69999998807907)
+[31May2025 02:02:35.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw joined the game
+[31May2025 02:02:35.676] [Netty Epoll Server IO #4/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Flycare_sw: protocol version: 2.0
+[31May2025 02:03:14.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has made the advancement [Not Today, Thank You]
+[31May2025 02:03:36.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual has made the advancement [Knowledge of Death]
+[31May2025 02:03:36.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual has made the advancement [A Strange Grave Dust]
+[31May2025 02:03:40.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has made the advancement [Monster Hunter]
