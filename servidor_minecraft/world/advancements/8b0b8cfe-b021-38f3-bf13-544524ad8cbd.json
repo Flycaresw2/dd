@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-05-31 04:32:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 01:48:08 +0000"
@@ -62,6 +68,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-05-31 00:16:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-05-31 04:29:48 +0000"
     },
     "done": true
   },
@@ -339,6 +351,7 @@
     "criteria": {
       "chicken": "2025-05-31 03:53:16 +0000",
       "apple": "2025-05-31 00:05:01 +0000",
+      "pumpkin_pie": "2025-05-31 04:42:25 +0000",
       "bread": "2025-05-31 00:08:21 +0000",
       "melon_slice": "2025-05-31 02:45:55 +0000",
       "carrot": "2025-05-31 03:44:15 +0000"
@@ -423,6 +436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-05-31 04:41:41 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-05-31 02:05:43 +0000"
@@ -501,9 +520,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-05-31 04:32:36 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
       "bestiary": "2025-05-31 00:10:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-05-31 04:32:36 +0000"
     },
     "done": true
   },
@@ -663,6 +694,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-05-31 04:41:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-05-31 03:31:21 +0000"
@@ -708,6 +745,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 01:48:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-05-31 04:32:36 +0000"
     },
     "done": true
   },
@@ -762,6 +805,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-05-31 00:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-05-31 04:41:41 +0000"
     },
     "done": true
   },
@@ -823,6 +872,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-05-31 00:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-05-31 04:41:41 +0000"
     },
     "done": true
   },
@@ -970,6 +1025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-31 04:34:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-05-31 00:02:57 +0000"
@@ -985,6 +1046,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 02:17:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-31 04:34:17 +0000"
     },
     "done": true
   },
@@ -1066,6 +1133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-31 04:32:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-05-31 03:00:38 +0000"
@@ -1141,6 +1214,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-05-31 03:51:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-31 04:32:36 +0000"
     },
     "done": true
   },
@@ -1240,6 +1319,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-05-31 04:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-31 04:32:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-05-31 03:22:08 +0000"
@@ -1330,6 +1421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-31 04:41:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-05-31 00:16:00 +0000"
@@ -1345,6 +1442,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-05-31 00:02:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-31 04:34:17 +0000"
     },
     "done": true
   },
@@ -1387,6 +1490,18 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-05-31 00:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-05-31 04:31:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-05-31 04:41:41 +0000"
     },
     "done": true
   },
@@ -1451,6 +1566,7 @@
       "minecraft:river": "2025-05-31 04:24:37 +0000",
       "minecraft:swamp": "2025-05-31 00:06:22 +0000",
       "minecraft:forest": "2025-05-30 23:52:44 +0000",
+      "minecraft:windswept_savanna": "2025-05-31 04:26:19 +0000",
       "minecraft:plains": "2025-05-30 23:53:12 +0000"
     },
     "done": false
@@ -1581,6 +1697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-05-31 04:32:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-31 02:27:22 +0000"
@@ -1608,6 +1730,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 02:17:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-05-31 04:41:41 +0000"
     },
     "done": true
   },
@@ -1662,6 +1790,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-05-31 00:16:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-31 04:32:36 +0000"
     },
     "done": true
   },

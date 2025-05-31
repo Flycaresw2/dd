@@ -4494,3 +4494,85 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 04:24:46.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [A Strange Grave Dust]
 [31May2025 04:25:02.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31May2025 04:25:02.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 04:26:33.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx was shot by Wither Skeleton
+[31May2025 04:26:33.544] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cristopher_jrx was created at position [x:56, y:146, z:-680, dim:minecraft:overworld]
+[31May2025 04:26:33.545] [Server thread/INFO] [tombstone/]: The player Cristopher_jrx has successfully been saved
+[31May2025 04:27:46.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was slain by Phantom
+[31May2025 04:27:46.482] [Server thread/DEBUG] [tombstone/]: A new grave of the player Flycare_sw was created at position [x:59, y:62, z:-661, dim:minecraft:overworld]
+[31May2025 04:27:46.488] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[31May2025 04:27:57.151] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-147, y=-38, z=-782}
+[31May2025 04:28:09.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx was shot by Wither Skeleton
+[31May2025 04:28:09.385] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cristopher_jrx was created at position [x:50, y:170, z:-697, dim:minecraft:overworld]
+[31May2025 04:28:09.387] [Server thread/INFO] [tombstone/]: The player Cristopher_jrx has successfully been saved
+[31May2025 04:30:02.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 04:30:02.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 04:31:37.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [Diamonds!]
+[31May2025 04:31:43.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [Cover Me with Diamonds]
+[31May2025 04:32:00.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo withered away whilst fighting Wither Skeleton
+[31May2025 04:32:00.731] [Server thread/DEBUG] [tombstone/]: A new grave of the player IGeoo was created at position [x:33, y:168, z:-695, dim:minecraft:overworld]
+[31May2025 04:32:00.732] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 04:32:02.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [Magic Writing]
+[31May2025 04:32:37.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was slain by Husk
+[31May2025 04:32:37.379] [Server thread/DEBUG] [tombstone/]: A new grave of the player Flycare_sw was created at position [x:68, y:176, z:-708, dim:minecraft:overworld]
+[31May2025 04:32:37.385] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[31May2025 04:33:20.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was slain by Wither Skeleton
+[31May2025 04:33:20.577] [Server thread/DEBUG] [tombstone/]: A new grave of the player IGeoo was created at position [x:47, y:171, z:-688, dim:minecraft:overworld]
+[31May2025 04:33:20.587] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 04:34:36.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was slain by Wither Skeleton
+[31May2025 04:34:36.427] [Server thread/DEBUG] [tombstone/]: A new grave of the player IGeoo was created at position [x:33, y:169, z:-691, dim:minecraft:overworld]
+[31May2025 04:34:36.437] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 04:35:02.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 04:35:02.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 04:35:19.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was slain by Phantom
+[31May2025 04:35:19.383] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[31May2025 04:35:41.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx withered away whilst fighting Wither Skeleton
+[31May2025 04:35:41.039] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cristopher_jrx was created at position [x:64, y:170, z:-706, dim:minecraft:overworld]
+[31May2025 04:35:41.041] [Server thread/INFO] [tombstone/]: The player Cristopher_jrx has successfully been saved
+[31May2025 04:37:54.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo has made the advancement [Ice Bucket Challenge]
+[31May2025 04:38:05.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was slain by Wither Skeleton
+[31May2025 04:38:05.334] [Server thread/DEBUG] [tombstone/]: A new grave of the player IGeoo was created at position [x:63, y:174, z:-708, dim:minecraft:overworld]
+[31May2025 04:38:05.341] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 04:38:35.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was shot by Wither Skeleton
+[31May2025 04:38:35.285] [Server thread/DEBUG] [tombstone/]: A new grave of the player Flycare_sw was created at position [x:70, y:175, z:-705, dim:minecraft:overworld]
+[31May2025 04:38:35.288] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[31May2025 04:39:00.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo withered away whilst fighting Wither Skeleton
+[31May2025 04:39:00.337] [Server thread/DEBUG] [tombstone/]: A new grave of the player IGeoo was created at position [x:64, y:174, z:-707, dim:minecraft:overworld]
+[31May2025 04:39:00.341] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 04:39:18.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx was doomed to fall
+[31May2025 04:39:18.084] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cristopher_jrx was created at position [x:30, y:170, z:-691, dim:minecraft:overworld]
+[31May2025 04:39:18.084] [Server thread/INFO] [tombstone/]: The player Cristopher_jrx has successfully been saved
+[31May2025 04:39:22.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was slain by Wither Skeleton
+[31May2025 04:39:22.380] [Server thread/DEBUG] [tombstone/]: A new grave of the player IGeoo was created at position [x:61, y:174, z:-706, dim:minecraft:overworld]
+[31May2025 04:39:22.389] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 04:39:56.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was slain by Wither Skeleton
+[31May2025 04:39:56.179] [Server thread/DEBUG] [tombstone/]: A new grave of the player IGeoo was created at position [x:57, y:174, z:-703, dim:minecraft:overworld]
+[31May2025 04:39:56.186] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 04:40:02.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 04:40:02.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 04:40:15.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was slain by Wither Skeleton
+[31May2025 04:40:15.128] [Server thread/DEBUG] [tombstone/]: A new grave of the player IGeoo was created at position [x:36, y:177, z:-707, dim:minecraft:overworld]
+[31May2025 04:40:15.134] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 04:40:16.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was burnt to a crisp whilst fighting Wither Skeleton
+[31May2025 04:40:16.629] [Server thread/DEBUG] [tombstone/]: A new grave of the player Flycare_sw was created at position [x:70, y:176, z:-706, dim:minecraft:overworld]
+[31May2025 04:40:16.633] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[31May2025 04:40:30.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx was doomed to fall
+[31May2025 04:40:30.879] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cristopher_jrx was created at position [x:28, y:169, z:-716, dim:minecraft:overworld]
+[31May2025 04:40:30.880] [Server thread/INFO] [tombstone/]: The player Cristopher_jrx has successfully been saved
+[31May2025 04:40:55.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo fell from a high place
+[31May2025 04:40:55.884] [Server thread/DEBUG] [tombstone/]: A new grave of the player IGeoo was created at position [x:59, y:173, z:-697, dim:minecraft:overworld]
+[31May2025 04:40:55.885] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 04:41:28.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo fell from a high place
+[31May2025 04:41:28.695] [Server thread/DEBUG] [tombstone/]: A new grave of the player IGeoo was created at position [x:13, y:64, z:-700, dim:minecraft:overworld]
+[31May2025 04:41:28.696] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 04:42:41.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was slain by Phantom
+[31May2025 04:42:41.226] [Server thread/DEBUG] [tombstone/]: A new grave of the player IGeoo was created at position [x:54, y:152, z:-687, dim:minecraft:overworld]
+[31May2025 04:42:41.233] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 04:43:01.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [Ambush]
+[31May2025 04:44:49.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was burnt to a crisp whilst fighting Wither Skeleton
+[31May2025 04:44:49.078] [Server thread/DEBUG] [tombstone/]: A new grave of the player IGeoo was created at position [x:50, y:200, z:-706, dim:minecraft:overworld]
+[31May2025 04:44:49.079] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 04:45:02.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 04:45:02.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 04:45:48.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was burnt to a crisp whilst fighting Wither Skeleton
+[31May2025 04:45:48.528] [Server thread/DEBUG] [tombstone/]: A new grave of the player IGeoo was created at position [x:51, y:193, z:-707, dim:minecraft:overworld]
+[31May2025 04:45:48.529] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
