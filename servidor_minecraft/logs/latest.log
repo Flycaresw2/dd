@@ -943,3 +943,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 03:25:05.248] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
 [31May2025 03:25:09.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was slain by Cave Enderman
 [31May2025 03:25:09.690] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 03:28:35.002] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[31May2025 03:32:35.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has made the advancement [Ambush]
+[31May2025 03:34:56.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual has made the advancement [Ol' Betsy]
+[31May2025 03:35:11.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was slain by PanZensual
+[31May2025 03:35:11.095] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
