@@ -863,3 +863,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 19:50:13.854] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/8909, l='ServerLevel[world]', x=1104.12, y=50.62, z=-284.09]
 [31May2025 19:50:33.873] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
 [31May2025 19:55:53.676] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=685, y=6, z=172}
+[31May2025 20:02:16.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [Super Creeps]
+[31May2025 20:05:11.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [Ashes 'n Bones]
+[31May2025 20:06:29.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw withered away whilst fighting Wither Skeleton
+[31May2025 20:06:29.652] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[31May2025 20:07:24.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx was slain by Wither Skeleton
+[31May2025 20:07:24.053] [Server thread/INFO] [tombstone/]: The player Cristopher_jrx has successfully been saved
+[31May2025 20:08:16.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has made the advancement [Where Is The Stone Pen?]
+[31May2025 20:09:22.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was slain by Wither Skeleton
+[31May2025 20:09:22.406] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved

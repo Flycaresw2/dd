@@ -3554,3 +3554,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 19:55:53.676] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=685, y=6, z=172}
 [31May2025 19:56:17.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31May2025 19:56:17.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 20:01:17.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 20:01:17.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 20:02:16.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [Super Creeps]
+[31May2025 20:05:11.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [Ashes 'n Bones]
+[31May2025 20:06:17.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 20:06:17.722] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 20:06:29.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw withered away whilst fighting Wither Skeleton
+[31May2025 20:06:29.651] [Server thread/DEBUG] [tombstone/]: A new grave of the player Flycare_sw was created at position [x:103, y:98, z:69, dim:minecraft:overworld]
+[31May2025 20:06:29.652] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[31May2025 20:07:24.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx was slain by Wither Skeleton
+[31May2025 20:07:24.049] [Server thread/DEBUG] [tombstone/]: A new grave of the player Cristopher_jrx was created at position [x:113, y:130, z:75, dim:minecraft:overworld]
+[31May2025 20:07:24.053] [Server thread/INFO] [tombstone/]: The player Cristopher_jrx has successfully been saved
+[31May2025 20:08:16.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has made the advancement [Where Is The Stone Pen?]
+[31May2025 20:09:22.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was slain by Wither Skeleton
+[31May2025 20:09:22.399] [Server thread/DEBUG] [tombstone/]: A new grave of the player Flycare_sw was created at position [x:111, y:98, z:70, dim:minecraft:overworld]
+[31May2025 20:09:22.406] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
