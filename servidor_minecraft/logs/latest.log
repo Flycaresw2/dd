@@ -872,3 +872,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 20:08:16.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has made the advancement [Where Is The Stone Pen?]
 [31May2025 20:09:22.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was slain by Wither Skeleton
 [31May2025 20:09:22.406] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[31May2025 20:11:35.403] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14098, l='ServerLevel[world]', x=80.30, y=102.01, z=62.03] died: Dinnerbone was shot by Dinnerbone
+[31May2025 20:11:49.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has reached the goal [Bone Crusher]
+[31May2025 20:11:49.903] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/14099, l='ServerLevel[world]', x=78.70, y=102.01, z=62.60] died: Dinnerbone was shot by Flycare_sw
+[31May2025 20:11:49.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw has made the advancement [Take Aim]
+[31May2025 20:12:07.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [Spooky Scary Skeleton]
+[31May2025 20:12:33.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flycare_sw was slain by Wither Skeleton
+[31May2025 20:12:33.564] [Server thread/INFO] [tombstone/]: The player Flycare_sw has successfully been saved
+[31May2025 20:15:17.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristopher_jrx has made the advancement [Essence Gathering]
