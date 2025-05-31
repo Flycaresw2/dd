@@ -3963,3 +3963,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 02:33:04.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanZensual has made the advancement [Diamonds!]
 [31May2025 02:34:10.667] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
 [31May2025 02:34:22.078] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=366, y=-21, z=-607}
+[31May2025 02:35:02.160] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 02:35:02.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 02:40:02.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 02:40:02.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
