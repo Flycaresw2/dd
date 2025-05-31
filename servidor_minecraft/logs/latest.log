@@ -1159,3 +1159,13 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [31May2025 04:55:02.770] [Worker-Main-146/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
 [31May2025 04:55:47.000] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IGeoo lost connection: Disconnected
 [31May2025 04:55:47.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo left the game
+[31May2025 04:56:38.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristopher_jrx moved wrongly!
+[31May2025 04:57:02.896] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3172d9b8
+[31May2025 04:57:02.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IGeoo[/100.101.102.94:56885] logged in with entity id 52996 at (70.96602618612721, 111.11658219521557, -700.6391948715327)
+[31May2025 04:57:02.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo joined the game
+[31May2025 04:57:03.036] [Netty Epoll Server IO #3/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] IGeoo: protocol version: 2.0
+[31May2025 04:57:04.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IGeoo moved too quickly! 0.0,-11.026982712340185,0.0
+[31May2025 05:00:34.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo was slain by Phantom
+[31May2025 05:00:34.035] [Server thread/INFO] [tombstone/]: The player IGeoo has successfully been saved
+[31May2025 05:06:15.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IGeoo lost connection: Disconnected
+[31May2025 05:06:15.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IGeoo left the game

@@ -243,6 +243,7 @@
     "criteria": {
       "porkchop": "2025-05-31 04:43:25 +0000",
       "potato": "2025-05-31 04:09:09 +0000",
+      "pumpkin_pie": "2025-05-31 05:04:49 +0000",
       "bread": "2025-05-31 04:16:44 +0000",
       "golden_carrot": "2025-05-31 04:44:23 +0000",
       "carrot": "2025-05-31 04:09:35 +0000"
@@ -354,6 +355,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-05-31 04:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-31 04:55:57 +0000"
     },
     "done": true
   },
@@ -510,6 +517,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-05-31 04:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-31 04:55:57 +0000"
     },
     "done": true
   },
@@ -880,6 +893,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-05-31 04:29:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-31 04:55:57 +0000"
     },
     "done": true
   },
