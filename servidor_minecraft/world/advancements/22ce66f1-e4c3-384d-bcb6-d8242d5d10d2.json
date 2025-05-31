@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-31 03:47:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-05-31 00:02:41 +0000"
@@ -523,6 +529,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-31 03:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-31 03:47:40 +0000"
     },
     "done": true
   },
@@ -782,6 +794,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-31 02:16:38 +0000",
       "minecraft:spider": "2025-05-31 00:06:20 +0000",
+      "minecraft:creeper": "2025-05-31 03:45:30 +0000",
       "minecraft:zombie": "2025-05-31 03:21:20 +0000"
     },
     "done": false
@@ -1464,6 +1477,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-31 01:57:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-31 03:47:13 +0000"
     },
     "done": true
   },
