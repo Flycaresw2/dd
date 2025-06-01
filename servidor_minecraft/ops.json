@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "8b0b8cfe-b021-38f3-bf13-544524ad8cbd",
+    "name": "Flycare_sw",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
